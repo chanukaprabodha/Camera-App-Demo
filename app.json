@@ -4,7 +4,7 @@
     "slug": "last-day",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/camera.png",
+    "icon": "./assets/images/icon.png",
     "scheme": "lastday",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
