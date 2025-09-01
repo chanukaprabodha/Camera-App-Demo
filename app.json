@@ -4,7 +4,7 @@
     "slug": "last-day",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/image.png",
+    "icon": "./assets/images/camera.png",
     "scheme": "lastday",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -12,6 +12,7 @@
       "supportsTablet": true
     },
     "android": {
+      "icon": "./assets/images/camera.png",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -23,7 +24,8 @@
         "android.permission.WRITE_EXTERNAL_STORAGE",
         "android.permission.ACCESS_MEDIA_LOCATION",
         "android.permission.CAMERA"
-      ]
+      ],
+      "package": "com.chanu_devops.lastday"
     },
     "web": {
       "bundler": "metro",
